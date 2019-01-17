@@ -4,3 +4,10 @@ Physics
 3rd
 Battle Creek, MI
 CMSE 201
+
+Anna Osella
+osellaan@msu.edu
+Physics
+Junior
+Troy MI
+CMSE 201
